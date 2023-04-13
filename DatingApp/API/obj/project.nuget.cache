@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nu2mBmM37h68mAwX5WB8EFCrHqieAEFmCjtVh8ctmH0Gmft172IV9AaWnv0T5/qKWh3Sj5cpPdT4d2u4nmg2+Q==",
+  "dgSpecHash": "o9lxkmjGZImJB0CZOKeqXHu8Es1o4KJqTGEuIj8TG6Tu0n1OkOlTVaCBQUcLtnqc44uyjiL73dlVsEUDjev+ZQ==",
   "success": true,
   "projectFilePath": "C:\\Technomites\\Projects\\DatingApp\\DatingApp\\API\\API.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Hp Omen 15 Pro\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\Hp Omen 15 Pro\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\Hp Omen 15 Pro\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
-    "C:\\Users\\Hp Omen 15 Pro\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
-    "C:\\Users\\Hp Omen 15 Pro\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\Hp Omen 15 Pro\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
